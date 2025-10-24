@@ -27,6 +27,30 @@ Thumbs.db
 desktop.ini
 
 # ----------------------------------------
+# Kaggle and Data Files
+# ----------------------------------------
+# Don't commit large datasets - keep repo lightweight
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.json
+data/raw/*.parquet
+*.zip
+
+# Keep processed data samples (small files only)
+data/processed/*.csv
+!data/processed/sample_*.csv
+!data/processed/*_summary.csv
+
+# ----------------------------------------
+# Analysis Outputs
+# ----------------------------------------
+outputs/
+figures/
+models/
+reports/*.pdf
+reports/*.html
+
+# ----------------------------------------
 # Editors / IDEs
 # ----------------------------------------
 .idea/

@@ -1,9 +1,9 @@
 # Student Academic Achievement Analysis
 
-##  Project Overview
+## Project Overview
 A comprehensive data science project analyzing factors that influence student academic performance using Python, statistical analysis, and data visualization techniques.
 
-##  Research Questions
+## Research Questions
 1. **What factors most strongly predict exam performance?**
 2. **How do study habits (hours studied) impact academic achievement?**
 3. **What's the relationship between parental involvement and student success?**
@@ -31,14 +31,14 @@ My_new_analytics_project/
     └── Student_Academic_Achievement_Analysis.ipynb
 ```
 
-##  Technologies Used
+## Technologies Used
 - **Python 3.8+**
 - **Pandas & NumPy**: Data manipulation and analysis
 - **Matplotlib & Seaborn**: Data visualization
 - **Jupyter Notebook**: Interactive development environment
 - **Statistical Analysis**: Correlation analysis and hypothesis testing
 
-##  Visualizations Created
+## Visualizations Created
 - Correlation heatmaps
 - Distribution plots
 - Scatter plots with regression lines
@@ -57,12 +57,11 @@ My_new_analytics_project/
 3. Open `notebooks/Student_Academic_Achievement_Analysis.ipynb`
 4. Run all cells to reproduce the analysis
 
-
 ## Author
 **Ragini Sinha**
 Data Analytics Capstone Project
 October 2025
-GitHub: [https://github.com/ragini-sinha03/my_new_analytics_project]
+GitHub: [ragini-sinha03](https://github.com/ragini-sinha03)
 
 ## Reports and Documentation
 - **Data Analysis**: [Jupyter Notebook](notebooks/Student_Academic_Achievement_Analysis.ipynb)
@@ -74,6 +73,5 @@ GitHub: [https://github.com/ragini-sinha03/my_new_analytics_project]
 - **LaTeX Report**: [Professional academic report (PDF)](https://www.overleaf.com/read/hcrptthsxnsw#51b5c0)
 - **GitHub Repository**: Well-documented project structure
 
-
-
-
+---
+*This project demonstrates proficiency in data analysis, statistical modeling, data visualization, and professional reporting using Python and LaTeX.*

@@ -74,6 +74,33 @@ GitHub: [https://github.com/ragini-sinha03/my_new_analytics_project]
 - **LaTeX Report**: [Professional academic report (PDF)](https://www.overleaf.com/read/hcrptthsxnsw#51b5c0)
 - **GitHub Repository**: Well-documented project structure
 
+## Dataset Information
+- **Size**: 6,607 student records
+- **Source**: [Student Success Factors Dataset](https://www.kaggle.com/datasets/anassarfraz13/student-success-factors-and-insights?resource=download)
+- **Variables**: 20+ factors including study hours, attendance, parental involvement, school type
+- **Target**: Exam scores (range: 55-101 points)
+- **Quality**: Zero missing values, clean dataset
 
+## Why This Problem Matters
+Student academic achievement analysis is critical for:
+- **Educational Policy**: Evidence-based decision making for schools
+- **Student Success**: Identifying key factors for academic improvement
+- **Resource Allocation**: Optimizing educational investments
+- **Early Intervention**: Preventing academic failure through predictive insights
+
+## Implementation Steps
+1. **Data Collection**: Obtained comprehensive student dataset from Kaggle
+2. **Data Exploration**: Statistical analysis and visualization of key variables
+3. **Correlation Analysis**: Identified strongest predictive factors
+4. **Categorical Analysis**: Compared performance across different student groups
+5. **Visualization**: Created comprehensive charts and heatmaps
+6. **Reporting**: Generated academic LaTeX report with findings
+
+## Project Limitations
+- **Cross-sectional Data**: Single time point limits causal inference
+- **Self-reported Variables**: Potential bias in survey responses
+- **Geographic Scope**: Results may not generalize to all educational systems
+- **Missing Factors**: Teacher quality, curriculum differences not included
+- **Sample Demographics**: May not represent all socioeconomic groups
 
 

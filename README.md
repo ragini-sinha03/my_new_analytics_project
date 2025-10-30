@@ -31,6 +31,31 @@ My_new_analytics_project/
     └── Student_Academic_Achievement_Analysis.ipynb
 ```
 
+## 🛠️ Environment Setup
+
+### Prerequisites
+- Python 3.8 or higher
+- pip package manager
+
+### Creating Virtual Environment
+
+#### Option 1: Using venv (Recommended)
+```bash
+# Navigate to project directory
+cd My_new_analytics_project
+
+# Create virtual environment
+python -m venv .venv
+
+# Activate virtual environment
+# On Windows:
+.venv\Scripts\activate
+
+# On macOS/Linux:
+source .venv/bin/activate
+
+# Verify activation (should show (.venv) in prompt)
+
 ##  Technologies Used
 - **Python 3.8+**
 - **Pandas & NumPy**: Data manipulation and analysis

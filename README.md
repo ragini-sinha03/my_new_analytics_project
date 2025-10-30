@@ -56,6 +56,15 @@ source .venv/bin/activate
 
 # Verify activation (should show (.venv) in prompt)
 
+# With activated virtual environment, install required packages:
+pip install pandas numpy matplotlib seaborn jupyter notebook
+
+# Or if you have a requirements.txt file:
+pip install -r requirements.txt
+
+# Verify installation
+python -c "import pandas, numpy, matplotlib, seaborn; print('All packages installed successfully!')"
+
 ##  Technologies Used
 - **Python 3.8+**
 - **Pandas & NumPy**: Data manipulation and analysis
